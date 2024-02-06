@@ -97,7 +97,7 @@ html{
 
 .btn:hover{
     cursor: pointer;
-    background-color: rgba(255, 9, 9, 0.596);
+    background-color: rgba(230, 20, 20, 0.87);
     color: black;
     box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
     font-weight: bold;
