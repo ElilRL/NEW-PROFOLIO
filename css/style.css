@@ -138,7 +138,7 @@ html{
 #my-work{
     display: flex;
     flex-direction: column;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     background: url(Home/sss.jpg) no-repeat center center/cover;
     align-items: center;
     color:rgb(0, 0, 0);
