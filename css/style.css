@@ -39,7 +39,7 @@ html{
 
 .navbar ul li a:hover{
     background-color: white;
-    color: black;
+    color: rgb(0, 0, 0);
     box-shadow: 0,0,10 white;
 }
 
@@ -51,21 +51,8 @@ html{
     height: 840px;
     justify-content: center;
     align-items: center;
-    color: rgb(255, 255, 255);
-
-}
-
-#home::before{
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    background-image: url("../img/website-background-design-guide-768x492.png");
-    background-repeat: no-repeat;
-    height: 900px;
-    width: 100%;
-    z-index: -1;
-    opacity: 8;
+  background:url("https://t3.ftcdn.net/jpg/06/03/13/10/360_F_603131082_zwQWrmkY5juDaIR8cv2MnHAaY7U8bW7o.jpg");
+  background-size:cover;
 
 }
 
