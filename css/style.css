@@ -255,7 +255,7 @@ h2:hover {
 }
 
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .header1{
@@ -268,4 +268,9 @@ h5{
 
 #icon{
     width: 100px;
+}
+
+
+#demo{
+    color: aliceblue;
 }
